@@ -11,8 +11,16 @@ For building and running the application you need:
 
 - Postgres 4
 - JDK 17
-
+- 
+## Running the postgres application locally
+ - Download application from https://www.postgresql.org/download/ for your system
+ - unzip and install
+ - install adminpostgres 4
+ - install UI
+ - 
 ## Running the application locally
+ - click on BookStoreApplication class
+ - open and RUN spring Boot Application 
 
 Start the service(Postgres) for backend.
 
